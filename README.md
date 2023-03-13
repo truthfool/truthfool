@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **ishanranasingh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1awtFByeqw9Wr1NtY-0LtkPfWeqpGbuTu/view](https://drive.google.com/file/d/1awtFByeqw9Wr1NtY-0LtkPfWeqpGbuTu/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ishan-ranasingh-689687b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-ranasingh-689687b2" height="30" width="40" /></a>
@@ -20,4 +18,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=truthfool&show_icons=true&locale=en&layout=compact" alt="truthfool" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truthfool&" alt="truthfool" /></p>
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1awtFByeqw9Wr1NtY-0LtkPfWeqpGbuTu/view)
 
