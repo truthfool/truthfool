@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan Ranasingh</h1>
-<h3 align="center">I am working as Software Enginner - 1 at @Fynarfin. I am passionate about creating innovative software solutions that can make a real difference in people's lives.
+<p align="center">I am working as Software Enginner - 1 at @Fynarfin. I am passionate about creating innovative software solutions that can make a real difference in people's lives.
 
-I have a strong background in Java,Python,Docker and Kubernetes, and I am always eager to learn new things and stay up-to-date with the latest developments in the field.</h3>
+I have a strong background in Java,Python,Docker and Kubernetes, and I am always eager to learn new things and stay up-to-date with the latest developments in the field.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truthfool&label=Profile%20views&color=0e75b6&style=flat" alt="truthfool" /> </p>
 
